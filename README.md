@@ -31,7 +31,7 @@ instructions. If there's a problem with the deployment then address the error
 message and run the command again.
 
 ```sh
-git clone git@github.com:google-marketing-solutions/custom-taxonomy-classifier.git && \
+git clone git@github.com:erosdeva/custom-taxonomy-classifier.git && \
 cd custom-taxonomy-classifier/api && \
 chmod 775 ./setup.sh && \
 ./setup.sh
